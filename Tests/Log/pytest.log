@@ -1,0 +1,6 @@
+2021-08-07 12:08:07:INFO:Navigate to Login Page
+2021-08-07 12:08:19:INFO:Log in with email: roxy.kvarman@gmail.com, and password: Password1234
+2021-08-07 12:08:26:INFO:----------------------- test_verify_pages_urls -----------------------
+2021-08-07 12:08:26:INFO:Navigate to Right Side Navigation Page
+2021-08-07 12:08:26:INFO:Get url of each page link by clicking on its icon
+2021-08-07 12:08:26:INFO:Verify expected and actual list of page urls

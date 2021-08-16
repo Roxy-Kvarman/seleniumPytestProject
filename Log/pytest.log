@@ -1,0 +1,15 @@
+2021-07-31 07:40:27:INFO:Navigate to Login Page
+2021-07-31 07:40:39:INFO:Log in with email: roxy.kvarman@gmail.com, and password: Password1234
+2021-07-31 07:40:45:INFO:----------------------- test_create_new_subject -----------------------
+2021-07-31 07:40:45:INFO:Navigate to Dashboard Page
+2021-07-31 07:40:45:INFO:Open New Task Page
+2021-07-31 07:40:51:INFO:Open New Subject Page
+2021-07-31 07:40:56:INFO:Create new subject: subject_YzWWC
+2021-07-31 07:41:22:INFO:Verify new subject is created and selected
+2021-07-31 07:41:23:INFO:----------------------- finished  -----------------------
+2021-07-31 07:41:23:INFO:Already Logged in
+2021-07-31 07:41:29:INFO:----------------------- test_verify_pages_urls -----------------------
+2021-07-31 07:41:29:INFO:Navigate to Right Side Navigation Page
+2021-07-31 07:41:29:INFO:Get url of each page link by clicking on its icon
+2021-07-31 07:41:29:INFO:Verify expected and actual list of page urls
+2021-07-31 07:41:29:INFO:----------------------- finished  -----------------------
